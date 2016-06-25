@@ -11,6 +11,7 @@ namespace HomeFunc
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from Hakob!!!!");
+            Console.WriteLine("How are you!!!!");
             Console.WriteLine("Hello from Marat");
         }
     }
