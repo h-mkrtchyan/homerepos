@@ -15,6 +15,9 @@ namespace HomeFunc
             Console.WriteLine("Hello from Marat");
             Console.WriteLine("Helllllllllllllllll00000000");
             Console.WriteLine("))))))))))))))))))))))))))))))))))))");
+            Console.WriteLine(")22222222222222222222222");
+
+
         }
     }
 }
